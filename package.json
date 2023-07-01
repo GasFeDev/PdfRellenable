@@ -10,7 +10,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "immutable": "^4.0.0-rc.12",
-    "jquery": "^3.5.1",
+    "jquery": "^3.7.0",
     "pdf-lib": "^1.9.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
